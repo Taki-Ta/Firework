@@ -1,0 +1,10 @@
+[package]
+name = "firework"
+version = "0.1.0"
+edition = "2024"
+authors = ["Taki <taki184344812@gmail.com>"]
+license = "MIT"
+
+[dependencies]
+crossterm = "0.29.0"
+rand = "0.9.1"
