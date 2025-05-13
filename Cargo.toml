@@ -1,14 +1,14 @@
 [package]
-name = "firework"
+name = "rsFirework"
 version = "0.1.0"
 edition = "2024"
 authors = ["taki184344812@gmail.com"]
 license = "MIT"
 description = "A terminal-based firework simulation program written in Rust"
-repository = "https://github.com/Taki-Ta/firework.git"
-documentation = "https://github.com/Taki-Ta/firework.git"
+repository = "https://github.com/Taki-Ta/rsFirework.git"
+documentation = "https://github.com/Taki-Ta/rsFirework.git"
 readme = "README.md"
-keywords = ["firework", "firework-rust", "fireworks", "firework-rust", "firework-cli"]
+keywords = ["rsFirework", "firework", "firework-rust","rust-firework", "firework-cli"]
 categories = ["command-line-utilities"]
 
 [dependencies]
