@@ -2,8 +2,15 @@
 name = "firework"
 version = "0.1.0"
 edition = "2024"
-authors = ["Taki <taki184344812@gmail.com>"]
+authors = ["taki184344812@gmail.com"]
 license = "MIT"
+description = "A terminal-based firework simulation program written in Rust"
+authors = ["taki184344812@gmail.com"]
+repository = "https://github.com/Taki-Ta/firework.git"
+documentation = "https://github.com/Taki-Ta/firework.git"
+readme = "README.md"
+keywords = ["firework", "firework-rust", "fireworks", "firework-rust", "firework-cli"]
+categories = ["command-line-utilities"]
 
 [dependencies]
 crossterm = "0.29.0"
